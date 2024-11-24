@@ -1,6 +1,6 @@
-MIT License
+VIT Vellore, Tamil Nadu
 
-Copyright (c) 2023 Farzad Nekouei
+Copyright (c) 2024 Rohinish Rakshan and Swarnalatha P.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
