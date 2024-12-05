@@ -1,4 +1,4 @@
-# 🚗 Real-World Traffic Density Analysis and Prediction
+# Real-World Traffic Density Analysis and Prediction
 ![Traffic Density Estimation](/images/cover_image_raw.png)
 
 
