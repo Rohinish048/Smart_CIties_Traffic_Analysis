@@ -1,4 +1,4 @@
-# 🚗 Real-Time Traffic Density Estimation with YOLOv8
+# 🚗 Real-World Traffic Density Analysis and Prediction
 ![Traffic Density Estimation](/images/cover_image_raw.png)
 
 
