@@ -1,6 +1,6 @@
 # Real-World Traffic Density Analysis and Prediction
 
-By Rohinish Rakshan - 21BCE2594
+By Rohinish Rakshan - 21BCE2594 F2+TF2 Slot
 
 ![Traffic Density Estimation](/images/cover_image_raw.png)
 
