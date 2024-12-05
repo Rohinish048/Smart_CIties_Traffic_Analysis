@@ -53,10 +53,13 @@ The dataset is publicly available on Roboflow and Kaggle:
 
 
 ## 🎥 Video Demo
-Real-Time Traffic Density Estimation with YOLOv8 in Action:
+Real-Time Traffic Density Estimation in Action:
 
 
-https://github.com/user-attachments/assets/5f575b3d-92ee-416e-a1c8-8dbaf33c0496
+
+https://github.com/user-attachments/assets/be08fd0a-1a1e-4468-b274-d06340f54162
+
+
 
 
 
